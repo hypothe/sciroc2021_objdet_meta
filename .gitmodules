@@ -1,0 +1,9 @@
+[submodule "sciroc_objdet"]
+	path = sciroc_objdet
+	url = https://github.com/hypothe/sciroc_objdet
+[submodule "sciroc_darknet_bridge"]
+	path = sciroc_darknet_bridge
+	url = https://github.com/hypothe/sciroc_darknet_bridge
+[submodule "darknet_ros"]
+	path = darknet_ros
+	url = https://github.com/hypothe/darknet_ros
