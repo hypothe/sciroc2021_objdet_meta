@@ -4,6 +4,8 @@
 [submodule "sciroc_darknet_bridge"]
 	path = sciroc_darknet_bridge
 	url = https://github.com/hypothe/sciroc_darknet_bridge
+	main = main
 [submodule "darknet_ros"]
 	path = darknet_ros
 	url = https://github.com/hypothe/darknet_ros
+	branch = feature/melodic-on-rqst-actionsrvr
