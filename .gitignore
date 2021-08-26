@@ -1,0 +1,2 @@
+# local avoid multiple catkin builds
+CATKIN_IGNORE
