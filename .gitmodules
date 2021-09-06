@@ -9,3 +9,7 @@
 	path = darknet_ros
 	url = https://github.com/hypothe/darknet_ros
 	branch = feature/melodic-on-rqst-actionsrvr
+[submodule "yolov5_ros"]
+	path = yolov5_ros
+	url = https://github.com/hypothe/yolov5_ros.git
+	branch = main
